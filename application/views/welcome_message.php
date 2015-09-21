@@ -3,6 +3,7 @@
 <html>
   <head> 
     <title>URL Shortener</title>
+    <!--use the CDN to save time as its a test-->
       <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
        <style type="text/css">
         input.form-control {
